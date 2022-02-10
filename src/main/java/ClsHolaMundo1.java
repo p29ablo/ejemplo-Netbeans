@@ -34,8 +34,8 @@ public class ClsHolaMundo1 {
     System.out.println(numero);*/
     
     int x=5, y=6;
-    x=++x;
-    y=--y;
+    x=x++;
+    y=y--;
     
     System.out.println(x);
     System.out.println(y);
